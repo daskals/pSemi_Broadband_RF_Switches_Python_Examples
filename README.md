@@ -10,9 +10,11 @@ The python script can control the:
 --> PE42562/PE42462/PE426462 RF switches
 
 The script uses the (red) USB Interface Board from Peregrine Semiconductor
+
 -->  Its dased on the FT232R FTDI chip
 
 Hints:
+
 -->  Don't connect any Logic State Jumper on the RF switch Evaluation Board
 --> In Windows: If the python doesn’t recognize the USB interface, you must install the WinUSB driver thru Zadig software (https://zadig.akeo.ie/)
 
